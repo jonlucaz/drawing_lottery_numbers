@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\bin\Debug\net8.0\Lottery.exe
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\bin\Debug\net8.0\Lottery.deps.json
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\bin\Debug\net8.0\Lottery.runtimeconfig.json
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\bin\Debug\net8.0\Lottery.dll
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\bin\Debug\net8.0\Lottery.pdb
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfo.cs
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\Lottery.sourcelink.json
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\Lottery.dll
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\refint\Lottery.dll
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\Lottery.pdb
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\Lottery.genruntimeconfig.cache
+C:\Users\jonat\Documents\POO - C#\drawing_lottery_numbers\Lottery\obj\Debug\net8.0\ref\Lottery.dll
